@@ -1,0 +1,8 @@
+[07-Apr-2017 12:03:45 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 126
+[07-Apr-2017 12:03:49 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 240
+[07-Apr-2017 12:04:03 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 126
+[07-Apr-2017 12:04:07 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 240
+[07-Apr-2017 12:07:22 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 126
+[07-Apr-2017 12:07:26 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 240
+[07-Apr-2017 12:10:22 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 126
+[07-Apr-2017 12:10:26 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/business/public_html/index.php on line 240
